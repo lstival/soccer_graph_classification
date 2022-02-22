@@ -1,0 +1,12 @@
+#Folders
+/__pycache__
+/.ipynb_checkpoints
+/grafo_all_bases
+/rhythm_figures
+/all_shape_values
+/modelos_reviewed
+
+#Files
+all_games_other_games.csv
+all_games_ad_FETW.csv
+multi_chanel_imagens.npy
