@@ -1,2 +1,5 @@
-*.ant linguist-language=text
-*.2d linguist-language=text
+$ cat .gitattributes
+
+*.ant linguist-documentation
+*.2d linguist-documentation
+*.csv linguist-documentation
