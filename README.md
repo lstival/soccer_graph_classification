@@ -9,8 +9,6 @@ With the player's position, we create a graph representation, where the vertices
 
 This represetation allows us to exctract metrics from these complex networks, in this work 8 metrics were obtained:
 
-| Metrics |
-| --- | --- | --- | --- |
 | Betweenness Centrality | Eccentricity | Global Efficiency| Local Efficiency |
 | Vulnerability | Clustering Coefficient | Entropy| PageRank |
 
