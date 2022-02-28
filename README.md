@@ -9,8 +9,9 @@ With the player's position, we create a graph representation, where the vertices
 
 This represetation allows us to exctract metrics from these complex networks, in this work 8 metrics were obtained:
 
-| Betweenness Centrality | Eccentricity | Global Efficiency| Local Efficiency |
-| Vulnerability | Clustering Coefficient | Entropy| PageRank |
+| --- | --- | --- | --- |
+| Betweenness Centrality | Eccentricity | Global Efficiency | Local Efficiency |
+| Vulnerability | Clustering Coefficient | Entropy | PageRank |
 
 So each frame of video was generated a graph with the metrics, the image below demonstrate an example where the size of each node changes conform the player's Betweenness Centrality:
 
