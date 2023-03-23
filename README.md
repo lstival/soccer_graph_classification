@@ -29,3 +29,18 @@ How we analyze a interval of the initial 5 seconds, all the metrics extracted ar
 In this way is possible to represent the game time series in a unique image:
 
 ![til](./readme_images/graph_edges_plus_red.gif)
+
+### Citing
+If you use this for academic research, please cite it using the following BibTeX entry.
+```bibtex
+@article{stival2023using,
+  title={Using machine learning pipeline to predict entry into the attack zone in football},
+  author={Stival, Leandro and Pinto, Allan and Andrade, Felipe dos Santos Pinto de and Santiago, Paulo Roberto Pereira and Biermann, Henrik and Torres, Ricardo da Silva and Dias, Ulisses},
+  journal={PloS one},
+  volume={18},
+  number={1},
+  pages={e0265372},
+  year={2023},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+```
